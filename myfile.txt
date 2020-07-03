@@ -20,7 +20,7 @@ github
 commit
 merge
 conflict
-not
+note
 book
 notebook
 lynnes
